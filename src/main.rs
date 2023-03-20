@@ -140,7 +140,7 @@ fn main() {
 023 CardSequenceNo       : "001"
 024 NII                  : "002"
 025 POSConditionCode     : "00"
-035 Track2               : "5400831512925523=24072010000056511000"
+035 Track2               : "5400831512925523=00072010000056511000"
 041 TerminalID           : "M0001001"
 042 AcquirerID           : "000000167391001"
 048 PrivateAddData       : "001"
